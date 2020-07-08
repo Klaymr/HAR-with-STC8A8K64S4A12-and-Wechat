@@ -6,9 +6,9 @@
 
 ### HAR：
 
-- **first try** $SVM \, \ Classifier$ 
+- **first try SVM Classifier**
 
-- **Later use** $Random \,\ Forest \,\ Classifier$ 
+- **Later use Random Forest Classifier**
 
 ### The activities are as follows：
 
