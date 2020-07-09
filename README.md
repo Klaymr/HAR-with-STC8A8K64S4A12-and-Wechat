@@ -15,7 +15,8 @@
 
 - **Data_collected**
 
-  
+Here is a detailed description about the project in chinese.
+https://zhuanlan.zhihu.com/p/157661166
 
 ### **If you have any doubt about the project, you can contact me by email：201800620686@mail.sdu.edu.cn** **or 2453183598@qq.com**
 
